@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on controllability arbitration at the [Motivational and Cognitive Control lab](https://www.roshancools.com/), 
+- 🌱 I’m currently learning data science via Kaggle Competitions, reinforcement learning and decision making modelling.
+- 👯 I’m looking to collaborate on Kaggle competitions, reinforcement learning projects...
+- 📫 How to reach me: samuelgerrit.nellessen@gmail.com
 <!--
 **DerOeko/DerOeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
