@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Kaggle competitions, reinforcement learning projects...
 - 📫 How to reach me: samuelgerrit.nellessen@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DerOeko)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DerOeko&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **DerOeko/DerOeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
