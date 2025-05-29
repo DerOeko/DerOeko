@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My Mission: Reverse-Engineering the mind 🧠✨
+### Reverse-Engineering Minds 🧠✨
 
 I am fascinated by LLMs. My focus is **mechanistic interpretability**: I want to understand *how* these models make decisions, *why* they work (or fail), and how we can ensure they align with human values. This journey involves dissecting neural circuits, probing for emergent behaviors, and making advanced AI systems more transparent and reliable.
 
