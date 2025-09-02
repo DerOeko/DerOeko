@@ -1,12 +1,12 @@
-## Hi there 👋
-### Reverse-Engineering Minds 🧠✨
+## Hi there!
 
-I am fascinated by LLMs. My focus is **mechanistic interpretability**: I want to understand *how* these models make decisions, *why* they work (or fail), and how we can ensure they align with human values. This journey involves dissecting neural circuits, probing for emergent behaviors, and making advanced AI systems more transparent and reliable.
+My academic journey started with a fascination for the brain, leading me through psychology and Philosophy & Cognitive Science. However, I increasingly felt that the ideas and beliefs I gained “don’t pay rent”. They didn’t seem to relate to concrete sensory experiences, regardless of whether they were solved or not. This ultimately led me to studying AI at Radboud University.
 
-Currently, I investigate the mechanisms of deception and **alignment faking** in LLMs. How do models deceive, and how can we detect it?
-Previously, I did computational modelling at the [Motivational and Cognitive Control Lab](https://www.roshancools.com/), Donders Institute, where I explore decision-making circuits in depression.
+After conducting research on computational models for depression with Roshan Cools at the Donders Institute, I became increasingly motivated by AI Safety challenges through engagement with EA communities. Since January, I’ve dedicated myself to Mechanistic Interpretability, specifically detecting deception in neural networks. My biggest worry is that models might learn different internal goals (mesa-optimization strategies) and learn to hide these with superhuman capability through alignment faking or steganographic reasoning.
 
-I am always happy to collaborate. Do reach out if you are passionate mechinterp, deceptive alignment, or alignment. I am particularly keen on empirical projects. See my [research statement](https://docs.google.com/document/d/1UmENQMvMX4sHiuYtsZ_PJ_V95Ygz4LUyxLB5TiugXK8/edit?usp=sharing) for more information on my research interests.
+I was an ARENA Fellow in the 2025 iteration, building technical skills and working on a project on LLM reasoning from my AI Safety Camp project (supervised by Nandi Schoots).
+
+Now I am researching automated red-teaming for safety evaluation with Tal Kachman’s lab. I’m particularly focused on understanding how LLM-to-LLM interactions differ from human-LLM interactions in a multipolar AI world—do models exploit linguistic quirks when interacting with each other? Do our current safety evaluation tools adequately replicate real deployment conditions? See my [research statement](https://docs.google.com/document/d/1UmENQMvMX4sHiuYtsZ_PJ_V95Ygz4LUyxLB5TiugXK8/edit?usp=sharing) for more information on my research interests.
 
 Wanna talk? Feel free to [book a 1-on-1](https://calendar.app.google/3c9J24Pbcb1F558c9) – I'm always open to new perspectives. Or the old fashioned way: samuelgerrit.nellessen{at}gmail.com.
 
