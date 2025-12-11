@@ -2,7 +2,7 @@
 
 I build systems that autonomously find failure modes in Large Language Models using Reinforcement Learning.
 
-Currently, I am working at **Kachman Lab** on **Slingshot**, an automated jailbreaking framework targeting ICML. My work focuses on the intersection of theoretical alignment research and high-performance engineering.
+Currently, I am working at **[KachmanLab](https://github.com/KachmanLab)** on **Slingshot**, an automated jailbreaking framework targeting ICML. My work focuses on the intersection of theoretical alignment research and high-performance engineering.
 
 ### Current Focus
 * **Reinforcement Learning:** Implementing verifiable reward frameworks (using `GRPO` and Verifiers) to train adversarial agents.
@@ -12,7 +12,7 @@ Currently, I am working at **Kachman Lab** on **Slingshot**, an automated jailbr
 ### Selected Work
 * **Slingshot (Current):** End-to-end RL training for automated jailbreaking.
 * **Prime Intellect:** Developed RL environments for decentralized training (e.g., Gutenberg literary analysis).
-* **RoboLearn:** Built Bayesian models for depression (controllability) and data analysis pipelines for computational psychiatry (Donders Institute/RadboudUMC).
+* **RoboLearn:** Built Bayesian models for depression (controllability) and data analysis pipelines for computational psychiatry in collaboration with [Prof. Dr. Roshan Cools](https://www.roshancools.com/) (Donders Institute/RadboudUMC).
 
 ### Interests
 Adversarial Robustness • Model Evals • Alignment Faking • Model Organisms • Mechanistic Interpretability • Steganography • Jailbreaking • Multi-Agent Systems.
