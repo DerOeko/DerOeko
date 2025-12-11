@@ -7,7 +7,7 @@ Current focus:
 * Inference Optimization: Designing asynchronous generation pipelines using asyncio and vLLM to maximize throughput across multi-GPU environments.
 * Evaluation: Curating adversarial datasets and benchmarking model robustness using AgentDojo and custom environments.
 
-Selected Work:
+Selected work:
 * Slingshot (Current): End-to-end RL training for automated jailbreaking.
 * Prime Intellect: Developed RL environments for decentralized training (e.g., literary analysis).
 * RoboLearn: Build bayesian modeling of depression (controllability) and data analysis pipeline for computational psychiatry (Donders Institute/RadboudUMC).
