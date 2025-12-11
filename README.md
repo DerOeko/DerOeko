@@ -18,4 +18,4 @@ Currently, I am working at **Kachman Lab** on **Slingshot**, an automated jailbr
 Adversarial Robustness • Model Evals • Alignment Faking • Model Organisms • Mechanistic Interpretability • Steganography • Jailbreaking • Multi-Agent Systems.
 
 ---
-**Wanna talk?** [Book a 1-on-1](INSERT_YOUR_CALENDLY_LINK_HERE) or do it the old fashioned way: `samuelgerrit.nellessen{at}gmail.com`
+**Wanna talk?** [Book a 1-on-1](https://calendar.app.google/JA8k9nZCt8k3VjN27) or do it the old fashioned way: `samuelgerrit.nellessen{at}gmail.com`
